@@ -1,0 +1,9 @@
+c:\users\nazim\documents\visual studio 2013\Projects\LibraryManagementSytem\LibraryManagementSytem\bin\LibraryManagementSytem.dll.config
+c:\users\nazim\documents\visual studio 2013\Projects\LibraryManagementSytem\LibraryManagementSytem\bin\LibraryManagementSytem.dll
+c:\users\nazim\documents\visual studio 2013\Projects\LibraryManagementSytem\LibraryManagementSytem\bin\LibraryManagementSytem.pdb
+c:\users\nazim\documents\visual studio 2013\Projects\LibraryManagementSytem\LibraryManagementSytem\obj\Debug\LibraryManagementSytem.csprojResolveAssemblyReference.cache
+c:\users\nazim\documents\visual studio 2013\Projects\LibraryManagementSytem\LibraryManagementSytem\obj\Debug\LibraryManagementSytem.dll
+c:\users\nazim\documents\visual studio 2013\Projects\LibraryManagementSytem\LibraryManagementSytem\obj\Debug\LibraryManagementSytem.pdb
+C:\Users\Nazim\Documents\GitHub\University-Library-Management-System\LibraryManagementSytem\LibraryManagementSytem\obj\Debug\LibraryManagementSytem.csprojResolveAssemblyReference.cache
+C:\Users\Nazim\Documents\GitHub\University-Library-Management-System\LibraryManagementSytem\LibraryManagementSytem\obj\Debug\LibraryManagementSytem.dll
+C:\Users\Nazim\Documents\GitHub\University-Library-Management-System\LibraryManagementSytem\LibraryManagementSytem\obj\Debug\LibraryManagementSytem.pdb
